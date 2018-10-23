@@ -1,0 +1,2 @@
+# Hog
+Hog is a dice game played by two people. This program pits the user against an AI opponent that uses a set strategy. Essentially, the two players race to be the first to obtain 100 points by choosing to roll 0 to 10 dice per turn. This project is purely for fun and demonstrates the uses of higher-order functions. It is mostly completed currently, but new strategies that have higher winrates can be implemented. It is maintained by Daryl Bui.
